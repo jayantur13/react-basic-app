@@ -13,9 +13,6 @@ class App extends React.Component {
   //As index ("/") is empty navigate to GetUser component
   //If user entered a wrong url(path is *,'',no path) hit with a 404 not found page
   render() {
-    //Change the document title
-    document.title = "React Example";
-
     //Destructure state take out data and error and objects
     //Send them to GetUser as props (object)
     //const {data,error} = this.state;

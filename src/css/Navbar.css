@@ -1,0 +1,19 @@
+.nav-bar {
+  margin-top: 20px;
+}
+
+.nav-opt {
+  border: 1px solid black;
+}
+
+a {
+  text-decoration: none !important;
+  font-size: 20px;
+  font-weight: 700;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.active > div {
+  background-color: cadetblue;
+  color: white;
+}

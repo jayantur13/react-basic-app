@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "firstName": "Mohan",
+      "lastName": "Prakash",
+      "gender": "male",
+      "dob": "1998-06-15",
+      "email": "mph@rediffmail.com",
+      "id": 1
+    },
+    {
+      "firstName": "Yash",
+      "lastName": "Kothari",
+      "gender": "male",
+      "dob": "1980-06-02",
+      "email": "yk@gmail.com",
+      "id": 3
+    }
+  ]
+}
